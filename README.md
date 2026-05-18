@@ -24,9 +24,6 @@ This project was created for practice and improving frontend development skills.
 ## 👨‍💻 Developer
 - Mobin Askari
 
-## 📷 Preview
-(Add screenshot here if you want)
-
 ---
 
 ⭐ If you like this project, feel free to star it!
